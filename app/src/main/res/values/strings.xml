@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleDict</string>
+    <string name="search_hint">请输入要搜索的单词</string>
+    <string name="search_button_text">搜索</string>
+    <string name="phonetic_label">音标：</string>
+    <string name="translation_label">翻译：</string>
+    <string name="not_found">未找到该单词</string>
+    <string name="no_phonetic">未找到音标</string>
+    <string name="no_translation">未找到翻译</string>
+    <string name="empty_search_text">请输入要搜索的单词</string>
+    <string name="no_definition">未找到释义</string>
+    <string name="about">关于</string>
+</resources>

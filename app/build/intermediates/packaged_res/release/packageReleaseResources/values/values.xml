@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#3DC9DC</color>
+    <color name="my_text_color">#330000</color>
+    <color name="purple_200">#FFDAC1</color>
+    <color name="purple_500">#B5EAD7</color>
+    <color name="purple_700">#85C1E9</color>
+    <color name="search_background_color">#ffffff</color>
+    <color name="search_hint_color">#757575</color>
+    <color name="search_text_color">#212121</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">关于</string>
+    <string name="app_name">SimpleDict</string>
+    <string name="empty_search_text">请输入要搜索的单词</string>
+    <string name="no_definition">未找到释义</string>
+    <string name="no_phonetic">未找到音标</string>
+    <string name="no_translation">未找到翻译</string>
+    <string name="not_found">未找到该单词</string>
+    <string name="phonetic_label">音标：</string>
+    <string name="search_button_text">搜索</string>
+    <string name="search_hint">请输入要搜索的单词</string>
+    <string name="translation_label">翻译：</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Base.Theme.SimpleDict" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SimpleDict" parent="Base.Theme.SimpleDict"/>
+</resources>
