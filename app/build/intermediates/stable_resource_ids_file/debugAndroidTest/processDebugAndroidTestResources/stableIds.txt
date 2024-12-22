@@ -1,0 +1,2 @@
+com.xvwilliam.simpledict.test:style/WhiteBackgroundTheme = 0x7f010001
+com.xvwilliam.simpledict.test:style/WhiteBackgroundDialogTheme = 0x7f010000

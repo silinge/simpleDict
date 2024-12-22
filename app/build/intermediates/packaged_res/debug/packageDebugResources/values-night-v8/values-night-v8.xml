@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_light_navigation_bar">false</bool>
+    <bool name="is_light_status_bar">false</bool>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.Material3.Dark"/>
+    <style name="Base.Theme.SimpleDict" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+
+    </style>
+    <style name="Theme.SimpleDict.Dark" parent="Base.Theme.SimpleDict">
+        <item name="colorOnBackground">@color/white</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.Material3.BodyMedium</item>
+        <item name="textAppearanceBodyLarge">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+</resources>

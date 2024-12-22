@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.xvwilliam.simpledict.app-mergeDebugResources-48:/layout/activity_about.xml",
+        "source": "com.xvwilliam.simpledict.app-main-51:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.xvwilliam.simpledict.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.xvwilliam.simpledict.app-main-51:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.xvwilliam.simpledict.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
