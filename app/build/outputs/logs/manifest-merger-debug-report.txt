@@ -113,7 +113,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wi
 	android:allowBackup
 		ADDED from F:\androidProjects\simpleDict\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from F:\androidProjects\simpleDict\app\src\main\AndroidManifest.xml:13:9-48
+		ADDED from F:\androidProjects\simpleDict\app\src\main\AndroidManifest.xml:13:9-54
 	android:dataExtractionRules
 		ADDED from F:\androidProjects\simpleDict\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.xvwilliam.simpledict.AboutActivity
