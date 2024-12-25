@@ -1,6 +1,0 @@
-com.xvwilliam.simpledict.test.app-tracing-1.2.0-0 C:\Users\Williams\.gradle\caches\8.9\transforms\045c8359d0b7b5b6722f94976e74b745\transformed\tracing-1.2.0\res
-com.xvwilliam.simpledict.test.app-core-1.6.1-1 C:\Users\Williams\.gradle\caches\8.9\transforms\3e207aa1126703f29e84b4c0637f30c9\transformed\core-1.6.1\res
-com.xvwilliam.simpledict.test.app-androidTest-2 F:\androidProjects\simpleDict\app\build\generated\res\resValues\androidTest\debug
-com.xvwilliam.simpledict.test.app-mergeDebugAndroidTestResources-3 F:\androidProjects\simpleDict\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.xvwilliam.simpledict.test.app-mergeDebugAndroidTestResources-4 F:\androidProjects\simpleDict\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.xvwilliam.simpledict.test.app-debugAndroidTest-5 F:\androidProjects\simpleDict\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
